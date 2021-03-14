@@ -1,0 +1,38 @@
+.container{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    margin-top: 20px;
+    background-color:	#ADD8E6;
+
+}
+h2{
+    color: white;
+    
+}
+.navbar{
+    background-color:	#ADD8E6;
+    
+}
+.check{
+    padding-top:10px;
+    padding-left: 20px;
+}
+.salariu{
+
+    
+}
+.Button{
+    padding: 1em;
+}
+
+.table td{
+    border: black solid 2px !important;
+}
+.table th{
+    border: black solid 2px !important;
+}
+
+#modificare{
+    margin-top: 10px;
+}
